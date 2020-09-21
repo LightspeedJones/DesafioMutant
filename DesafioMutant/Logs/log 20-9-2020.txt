@@ -1,0 +1,57 @@
+20/09/2020 21:56:51 - Baixar Dados
+20/09/2020 21:56:53 - Salvar Dados
+20/09/2020 21:56:53 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 21:56:54 - Abrindo conexão com o banco de dados.
+20/09/2020 21:56:54 - 3 linha(s) afetada(s)
+20/09/2020 22:06:10 - Baixar Dados
+20/09/2020 22:06:10 - Criando request.
+20/09/2020 22:06:11 - Lendo resposta da api.
+20/09/2020 22:06:11 - Salvar Dados
+20/09/2020 22:06:11 - Serializando resposta da api para JSON.
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:06:13 - 3 linha(s) afetada(s)
+20/09/2020 22:31:52 - Baixar Dados
+20/09/2020 22:31:52 - Criando request.
+20/09/2020 22:31:54 - Lendo resposta da api.
+20/09/2020 22:31:54 - Salvar Dados
+20/09/2020 22:31:54 - Serializando resposta da api para JSON.
+20/09/2020 22:33:22 - Baixar Dados
+20/09/2020 22:33:22 - Criando request.
+20/09/2020 22:33:23 - Lendo resposta da api.
+20/09/2020 22:33:23 - Salvar Dados
+20/09/2020 22:33:23 - Serializando resposta da api para JSON.
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:33:24 - 3 linha(s) afetada(s)
+20/09/2020 22:37:32 - Baixar Dados
+20/09/2020 22:37:32 - Criando request.
+20/09/2020 22:37:33 - Lendo resposta da api.
+20/09/2020 22:37:33 - Salvar Dados
+20/09/2020 22:37:33 - Serializando resposta da api para JSON.
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)
+20/09/2020 22:37:35 - 3 linha(s) afetada(s)

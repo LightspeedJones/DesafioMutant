@@ -1,0 +1,35 @@
+20/09/2020 22:18:21 - Salvar Dados
+20/09/2020 22:18:21 - Serializando resposta da api para JSON.
+20/09/2020 22:18:23 - 3 linha(s) afetada(s)
+20/09/2020 22:18:23 - Baixar Dados
+20/09/2020 22:18:23 - Criando request.
+20/09/2020 22:18:25 - Lendo resposta da api.
+20/09/2020 22:24:42 - Salvar Dados
+20/09/2020 22:24:42 - Serializando resposta da api para JSON.
+20/09/2020 22:24:42 - Violation of PRIMARY KEY constraint 'PK__UserPers__1788CC4C5ED21EA0'. Cannot insert duplicate key in object 'dbo.UserPersonalInfo'. The duplicate key value is (99).
+Violation of PRIMARY KEY constraint 'PK__UserAddr__1788CC4C56FCD785'. Cannot insert duplicate key in object 'dbo.UserAddress'. The duplicate key value is (99).
+Violation of PRIMARY KEY constraint 'PK__UserCont__1788CC4CE93C5067'. Cannot insert duplicate key in object 'dbo.UserContactInfo'. The duplicate key value is (99).
+The statement has been terminated.
+The statement has been terminated.
+The statement has been terminated.
+20/09/2020 22:24:42 - Salvar Dados
+20/09/2020 22:24:42 - Serializando resposta da api para JSON.
+20/09/2020 22:24:42 - Baixar Dados
+20/09/2020 22:24:43 - Criando request.
+20/09/2020 22:24:44 - Lendo resposta da api.
+20/09/2020 22:38:32 - Salvar Dados
+20/09/2020 22:38:32 - Serializando resposta da api para JSON.
+20/09/2020 22:38:33 - 3 linha(s) afetada(s)
+20/09/2020 22:38:33 - Salvar Dados
+20/09/2020 22:38:33 - Serializando resposta da api para JSON.
+20/09/2020 22:38:33 - Baixar Dados
+20/09/2020 22:38:33 - Criando request.
+20/09/2020 22:38:34 - Lendo resposta da api.
+20/09/2020 22:44:43 - Salvar Dados
+20/09/2020 22:44:43 - Serializando resposta da api para JSON.
+20/09/2020 22:44:48 - 3 linha(s) afetada(s)
+20/09/2020 22:44:48 - Salvar Dados
+20/09/2020 22:44:48 - Serializando resposta da api para JSON.
+20/09/2020 22:44:48 - Baixar Dados
+20/09/2020 22:44:48 - Criando request.
+20/09/2020 22:44:50 - Lendo resposta da api.
